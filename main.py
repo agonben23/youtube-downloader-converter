@@ -10,13 +10,7 @@ What do you want?
 
 (1) Download YouTube Videos Manually
 (2) Download a YouTube Playlist
-(3) Download YouTube Videos and Convert Into MP3
-
-Downloading copyrighted YouTube videos is illegal!
-I am not responsible for your downloads! Go at your own risk!
-
-Copyright (c) NeuralNine 2020
-''')
+(3) Download YouTube Videos and Convert Into MP3''')
 
 choice = input("Choice: ")
 
